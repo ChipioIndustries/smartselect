@@ -1,0 +1,11 @@
+Filter targets:
+* All
+* Selection (descendants)
+* Selection (direct)
+
+Filter options:
+Add a property
+Set a value (value setter determined by property)
+Copy property from selected object
+
+Save selections AND save filter options
