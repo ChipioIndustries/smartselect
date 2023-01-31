@@ -1,6 +1,9 @@
 {
 	"name": "SmartSelect",
 	"tree": {
-		"$path": "src"
+		"$path": "src",
+		"Packages": {
+			"$path": "Packages"
+		}
 	}
 }

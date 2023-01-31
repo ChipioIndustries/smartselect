@@ -8,12 +8,8 @@
 			"DevPackages": {
 				"$path": "../DevPackages"
 			},
-			"Packages": {
-				"$className": "Folder",
-				"$path": "../Packages",
-				"SmartSelect": {
-					"$path": "../default.project.json"
-				}
+			"SmartSelect": {
+				"$path": "../default.project.json"
 			}
 		}
 	}
