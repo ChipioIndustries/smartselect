@@ -9,3 +9,12 @@ Set a value (value setter determined by property)
 Copy property from selected object
 
 Save selections AND save filter options
+
+{
+	filterSets = {
+		ACTIVE = {
+			Size = Vector3.new(1, 1, 1)
+		};
+	};
+	searchTarget = All;
+}

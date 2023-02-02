@@ -8,8 +8,11 @@ exclude = ["wally.exe", "aftman", "*.zip"]
 
 [dependencies]
 t = "osyrisrblx/t@3.0.0"
-
-[dev-dependencies]
 Roact = "roblox/roact@1.4.2"
 RoactHooks = "kampfkarren/roact-hooks@0.4.1"
+Rodux = "chipioindustries/rodux@3.0.4"
+RoactRodux = "chipioindustries/roact-rodux@1.0.4"
+Llama = "chipioindustries/llama@1.2.4"
+
+[dev-dependencies]
 TestEZ = "roblox/testez@0.4.1"

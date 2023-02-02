@@ -15,6 +15,7 @@ return function(plugin)
 	end
 
 	toolbarButton.Click:Connect(Main.togglePanel)
+	controlPanel:BindToClose(Main.togglePanel)
 	Main:updateButtonActive()
 
 	return Main
